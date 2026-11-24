@@ -20,6 +20,7 @@ My doctoral research on a Moiré-based transparent transmissive RIS for 6G outdo
 - 2014.03 — 2021.08: B.S. in Electrical, Electronics and Computer Engineering, University of Ulsan
 
 ## Journal papers
+- Subin Lee, S. Lee, D. Lee, and S. Choi*, "Beamforming Series-Feed Patch Antenna Array for Wideband Uniform and Chebyshev Power Distributions," IEEE Transactions on Antennas and Propagation (TAP), Communication — accepted Nov. 2026, to appear.
 - T. Kim, F. Zardi, S. Lee, J. Kim, U. Park, J. Oh, S. Choi*, and G. Oliveri, "On the Synthesis of Aperiodic Multi-Atom 1-Bit Reconfigurable Passive EMSs at 140 GHz," IEEE Open Journal of Antennas and Propagation (OJAP), vol. 7, no. 1, pp. 265–276, Feb. 2026. doi:10.1109/OJAP.2025.3643633
 - S. Lee and S. Choi*, "Path Loss Modeling and Communication Performance Verification of Transmissive RIS in Simulated Outdoor-to-Indoor Channels," The Journal of Korean Institute of Electromagnetic Engineering and Science (JKIEES), vol. 36, no. 8, pp. 737–748, Aug. 2025. doi:10.5515/KJKIEES.2025.36.8.737
 - S. Lee and S. Choi*, "Reconfigurable Planar Huygens' Metasurface for Wide Beamforming," Advanced Materials Technologies, vol. 10, no. 13, Art. no. 2402131, 2025. doi:10.1002/admt.202402131
@@ -95,16 +96,6 @@ My doctoral research on a Moiré-based transparent transmissive RIS for 6G outdo
 - 2026.09 — 2028.08 (planned): Moiré-Based Transparent Transmissive Reconfigurable Intelligent Surface for 6G Outdoor-to-Indoor Links — National Research Foundation of Korea (NRF) · Ph.D. Student Research Grant, No. RS-2026-25552947 (Principal Investigator)
 - Since 2024: Development of RIS and NCR Component Technologies for Upper-mid Band Smart Repeater — Institute of Information & Communications Technology Planning & Evaluation (IITP), No. RS-2024-00395366 (Participating Researcher)
 - Since 2021: Innovative Fusion Technologies of Intelligent Antenna Material/Structure/Network for THz 6G — Institute of Information & Communications Technology Planning & Evaluation (IITP), No. 2021-0-00763 (Participating Researcher)
-
-## Coursework
-- Electromagnetic Wave Engineering
-- Antenna Theory I
-- Radiation and Diffraction Theory
-- Numerical Analysis of Electromagnetic Fields
-- Optimization Theory
-- Nanophotonics
-- Introduction to Optical Information Processing
-- Engineering Paper Writing
 
 Contact: sangmin2 [at] knu.ac.kr
 Last updated: Nov. 2026
