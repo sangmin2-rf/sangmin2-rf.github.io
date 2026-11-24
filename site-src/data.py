@@ -33,8 +33,6 @@ ABOUT = [
     "and the M.S. degree from KNU in 2024.",
     "My research focuses on controlling electromagnetic waves with metasurfaces and antenna arrays &mdash; from unit-cell design "
     "and full-wave simulation to PCB prototyping, anechoic-chamber pattern measurement, and over-the-air link validation.",
-    "My doctoral research on a Moir&eacute;-based transparent transmissive RIS for 6G outdoor-to-indoor links is supported by the "
-    "NRF Ph.D. Student Research Grant (RS-2026-25552947).",
 ]
 
 INTERESTS = [
