@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Daegu, Republic of Korea</p>
+    <p>PLAYWAVE Lab, IT-1 Bldg. Room 905</p>
+    <p>Kyungpook National University, Daegu, Korea</p>
 
 selected_papers: true # papers marked selected={true} in papers.bib
 social: true
@@ -23,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student in the School of Electronic and Electrical Engineering at Kyungpook National University (KNU), Daegu, Korea, advised by [Prof. Sangjo Choi](https://research.knu.ac.kr/en/persons/sangjo-choi/). I received the B.S. degree from the University of Ulsan in 2021 and the M.S. degree from KNU in 2024.
+I am a Ph.D. student in the School of Electronic and Electrical Engineering at Kyungpook National University (KNU), Daegu, Korea, advised by [Prof. Sangjo Choi](https://research.knu.ac.kr/en/persons/sangjo-choi/) in the [PLAYWAVE Lab](https://playwave.knu.ac.kr/). I received the B.S. degree from the University of Ulsan in 2021 and the M.S. degree from KNU in 2024.
 
 My research focuses on controlling electromagnetic waves with metasurfaces and antenna arrays, from unit-cell design and full-wave simulation to PCB prototyping, anechoic-chamber pattern measurement, and over-the-air link validation.
 
