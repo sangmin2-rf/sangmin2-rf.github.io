@@ -47,8 +47,8 @@ cv:
 
     Projects:
       - name: "Moiré-Based Transparent Transmissive Reconfigurable Intelligent Surface for 6G Outdoor-to-Indoor Links (NRF Ph.D. Student Research Grant, No. RS-2026-25552947)"
-        summary: Principal Investigator. Funded by the National Research Foundation of Korea (NRF).
-        start_date: 2026
+        summary: Principal Investigator. Funded by the National Research Foundation of Korea (NRF). Planned period Sep. 2026 – Aug. 2028 (24 months).
+        start_date: 2026-09
         end_date: Present
 
       - name: "Development of RIS and NCR Component Technologies for Upper-mid Band Smart Repeater (IITP, No. RS-2024-00395366)"
