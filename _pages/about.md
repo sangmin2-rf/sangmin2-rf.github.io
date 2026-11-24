@@ -26,7 +26,7 @@ latest_posts:
 
 I am a Ph.D. student in the School of Electronic and Electrical Engineering at Kyungpook National University (KNU), Daegu, Korea, advised by [Prof. Sangjo Choi](https://research.knu.ac.kr/en/persons/sangjo-choi/) in the [PLAYWAVE Lab](https://playwave.knu.ac.kr/). I received the B.S. degree from the University of Ulsan in 2021 and the M.S. degree from KNU in 2024.
 
-My research focuses on controlling electromagnetic waves with metasurfaces and antenna arrays, from unit-cell design and full-wave simulation to PCB prototyping, anechoic-chamber pattern measurement, and over-the-air link validation.
+My research focuses on controlling electromagnetic waves with metasurfaces and antenna arrays, from unit-cell design and full-wave simulation to PCB prototyping, anechoic-chamber pattern measurement, and over-the-air link validation. My doctoral research on a Moiré-based transparent transmissive RIS for 6G outdoor-to-indoor links is supported by the NRF Ph.D. Student Research Grant (RS-2026-25552947).
 
 **Research interests**
 
