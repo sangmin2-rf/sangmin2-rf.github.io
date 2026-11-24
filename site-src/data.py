@@ -46,6 +46,7 @@ INTERESTS = [
 
 # kind: paper | award | grant | talk | milestone
 NEWS = [
+    ("2026-11-02", "paper", "Co-authored paper with Subin Lee accepted in <b>IEEE Transactions on Antennas and Propagation</b> (beamforming series-feed patch array)."),
     ("2026-09-14", "award", "Co-authored paper with Kihan Park received the <b>Best Paper Award</b> at the 2026 KIEES Summer Conference."),
     ("2026-09-01", "grant", "Started the <b>NRF Ph.D. Student Research Grant</b> project (RS-2026-25552947) as PI: <i>Moir&eacute;-Based Transparent Transmissive RIS for 6G Outdoor-to-Indoor Links</i>."),
     ("2026-07-13", "talk", "Presented <b>Dynamic Huygens' STAR-RIS</b> at the 2026 IEEE AP-S/URSI, Detroit, MI, USA."),
@@ -67,26 +68,26 @@ NEWS = [
 EDUCATION = [
     {"period": "2024.03 — Present", "degree": "Ph.D. in Electronic and Electrical Engineering",
      "school": "Kyungpook National University (KNU)", "url": "https://www.knu.ac.kr/", "place": "Daegu, Republic of Korea",
-     "advisor": ("Sangjo Choi", "https://research.knu.ac.kr/en/persons/sangjo-choi/")},
+     "advisor": ("Sangjo Choi", "https://research.knu.ac.kr/en/persons/sangjo-choi/"), "logo": "assets/logos/knu.jpg"},
     {"period": "2022.03 — 2024.02", "degree": "M.S. in Electronic and Electrical Engineering",
      "school": "Kyungpook National University (KNU)", "url": "https://www.knu.ac.kr/", "place": "Daegu, Republic of Korea",
-     "advisor": ("Sangjo Choi", "https://research.knu.ac.kr/en/persons/sangjo-choi/")},
+     "advisor": ("Sangjo Choi", "https://research.knu.ac.kr/en/persons/sangjo-choi/"), "logo": "assets/logos/knu.jpg"},
     {"period": "2014.03 — 2021.08", "degree": "B.S. in Electrical, Electronics and Computer Engineering",
      "school": "University of Ulsan", "url": "https://www.ulsan.ac.kr/", "place": "Ulsan, Republic of Korea",
-     "advisor": None},
-]
-
-GENEALOGY = [  # top -> bottom
-    ("Fawwaz T. Ulaby", "Univ. of Michigan"),
-    ("Kamal Sarabandi", "Ph.D. Univ. of Michigan, 1989"),
-    ("Sangjo Choi", "Ph.D. Univ. of Michigan, 2014"),
-    ("Sangmin Lee", "Ph.D. KNU, 2024 –"),
+     "advisor": None, "logo": "assets/logos/ulsan.png"},
 ]
 
 # ---------------------------------------------------------------- publications
 ME = ["S. Lee", "Sangmin Lee", "S.-M. Lee", "Sang-Min Lee"]
 
 JOURNALS = [
+    {"key": "lee2026beamforming", "selected": True, "first": False, "jabbr": "IEEE TAP",
+     "authors": "Subin Lee, **S. Lee**, D. Lee, and S. Choi*",
+     "title": "Beamforming Series-Feed Patch Antenna Array for Wideband Uniform and Chebyshev Power Distributions",
+     "venue": "IEEE Transactions on Antennas and Propagation (TAP), Communication — accepted Nov. 2026, to appear",
+     "doi": None, "year": 2026, "status": "Accepted",
+     "keywords": ["Series array antenna", "Series feed network", "Power distribution"],
+     "abstract": "This paper addresses, for the first time, the issue of the power distribution degradation in beamforming series-feed networks resulting from out-of-band deviations in the input impedance of the phase shifter. To resolve this issue, the optimum length of the transmission-line section between junctions in the series-feed network is determined. A continuous 360° reflection-type phase shifter (RTPS) with 1-bit switching, whose insertion loss and input impedance exhibit only small variations across its states as the design rule requires, is adopted. As a proof of concept, 4 × 1 beamforming series-feed patch antenna arrays employing the proposed feed network and phase shifter are designed at 5.5 GHz for the uniform and Chebyshev distributions. Both fabricated arrays exhibit sidelobe levels below −13 dB over a 470-MHz power-distribution bandwidth, with a 1-dB gain bandwidth at broadside of 180 MHz for both the uniform and Chebyshev distributions, a peak gain of ∼8 dBi, and a beam steering range of −45° to +45°. The design rule is further verified on a simulated eight-element array, which keeps the SLL below −16.5 dB over 5.2–5.8 GHz."},
     {"key": "kim2026synthesis", "selected": True, "first": False, "jabbr": "IEEE OJAP",
      "authors": "T. Kim, F. Zardi, S. Lee, J. Kim, U. Park, J. Oh, S. Choi*, and G. Oliveri",
      "title": "On the Synthesis of Aperiodic Multi-Atom 1-Bit Reconfigurable Passive EMSs at 140 GHz",
@@ -272,12 +273,6 @@ MENTORING = [
         "Prof. Jungsuek Oh — Seoul National University (140 GHz metasurfaces, 250 GHz transmitarray)",
         "Prof. Giacomo Oliveri &amp; Dr. Francesco Zardi — ELEDIA Research Center, University of Trento, Italy (aperiodic 1-bit EMSs)",
     ]),
-]
-
-COURSEWORK = [
-    "Electromagnetic Wave Engineering", "Antenna Theory I", "Radiation and Diffraction Theory",
-    "Numerical Analysis of Electromagnetic Fields", "Optimization Theory", "Nanophotonics",
-    "Introduction to Optical Information Processing", "Engineering Paper Writing",
 ]
 
 SKILLS = [
