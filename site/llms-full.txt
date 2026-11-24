@@ -1,0 +1,110 @@
+# Sangmin Lee (이상민)
+Ph.D. Student, School of Electronic and Electrical Engineering, Kyungpook National University
+Lab: PLAYWAVE Lab (https://playwave.knu.ac.kr/)
+Site: https://sangmin2-rf.github.io
+
+## About
+I am a Ph.D. student in the School of Electronic and Electrical Engineering at Kyungpook National University (KNU), advised by Prof. Sangjo Choi in the PLAYWAVE Lab. I received the B.S. degree from the University of Ulsan in 2021 and the M.S. degree from KNU in 2024.
+My research focuses on controlling electromagnetic waves with metasurfaces and antenna arrays — from unit-cell design and full-wave simulation to PCB prototyping, anechoic-chamber pattern measurement, and over-the-air link validation.
+My doctoral research on a Moiré-based transparent transmissive RIS for 6G outdoor-to-indoor links is supported by the NRF Ph.D. Student Research Grant (RS-2026-25552947).
+
+## Research interests
+- Reconfigurable Intelligent Surfaces for 6G Upper Mid-Band
+- Millimeter-Wave Series-Fed Arrays for Automotive Radar
+- Metasurface-Enabled Electromagnetic Computing and Imaging
+- Beam-Steering Phased Arrays for SATCOM
+
+## Education
+- 2024.03 — Present: Ph.D. in Electronic and Electrical Engineering, Kyungpook National University (KNU) (advisor: Prof. Sangjo Choi)
+- 2022.03 — 2024.02: M.S. in Electronic and Electrical Engineering, Kyungpook National University (KNU) (advisor: Prof. Sangjo Choi)
+- 2014.03 — 2021.08: B.S. in Electrical, Electronics and Computer Engineering, University of Ulsan
+
+## Journal papers
+- T. Kim, F. Zardi, S. Lee, J. Kim, U. Park, J. Oh, S. Choi*, and G. Oliveri, "On the Synthesis of Aperiodic Multi-Atom 1-Bit Reconfigurable Passive EMSs at 140 GHz," IEEE Open Journal of Antennas and Propagation (OJAP), vol. 7, no. 1, pp. 265–276, Feb. 2026. doi:10.1109/OJAP.2025.3643633
+- S. Lee and S. Choi*, "Path Loss Modeling and Communication Performance Verification of Transmissive RIS in Simulated Outdoor-to-Indoor Channels," The Journal of Korean Institute of Electromagnetic Engineering and Science (JKIEES), vol. 36, no. 8, pp. 737–748, Aug. 2025. doi:10.5515/KJKIEES.2025.36.8.737
+- S. Lee and S. Choi*, "Reconfigurable Planar Huygens' Metasurface for Wide Beamforming," Advanced Materials Technologies, vol. 10, no. 13, Art. no. 2402131, 2025. doi:10.1002/admt.202402131
+- T. Kim, S. Lee, S. Oh, J. Kim, J. Oh, and S. Choi*, "Pre-Phased 1-bit Reflective Passive Metasurface With Optimum Number of Pre-Phasing for Low QLL and SLL at 140 GHz," IEEE Transactions on Antennas and Propagation (TAP), vol. 73, no. 2, pp. 975–985, Feb. 2025. doi:10.1109/TAP.2024.3510861
+- S. Lee and S. Choi*, "Universal and Non-Iterative Design Method for In-Phase Radiation of Microstrip Traveling-Wave Series-Fed Antenna Arrays," IEEE Transactions on Antennas and Propagation (TAP), vol. 71, no. 2, pp. 1403–1413, Feb. 2023. doi:10.1109/TAP.2022.3227751
+- S.-M. Lee and J. Choi*, "Intensity and Uniformity Enhancement of Dielectric Barrier Discharge by Using Silver-Coated Electrode," Applied Science and Convergence Technology (ASCT), vol. 30, no. 1, pp. 29–33, Jan. 2021. doi:10.5757/ASCT.2021.30.1.29
+
+## International conference papers
+- S. Lee and S. Choi, "Dynamic Huygens' STAR-RIS: Simultaneous Transmitting and Reflecting Reconfigurable Intelligent Surface," 2026 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI 2026), Detroit, MI, USA, Jul. 12–17, 2026.
+- S. Lee and S. Choi, "Electrically Tunable Planar Huygens' Metasurface for Wide Beam Coverage," 2024 International Symposium on Antennas and Propagation (ISAP 2024), Incheon, Republic of Korea, Nov. 2024.
+- S. Lee and S. Choi, "Universal Design Method for Traveling Wave Series-Fed Array Antennas," 2022 International Symposium on Antennas and Propagation (ISAP 2022), pp. 99–100, Sydney, Australia, Oct. 2022.
+- S. Lee and S. Choi, "Active Double-Layered Huygens' Metasurface for Beamforming Application," 2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI 2022), Denver, CO, USA, Jul. 2022.
+- K. M. R. Islam, S. Lee, and S. Choi, "Tunable Huygens' Transmission Metasurface on Double-Layer PCB," 2021 International Symposium on Antennas and Propagation (ISAP 2021), Taipei, Taiwan, Oct. 2021.
+
+## Domestic conference papers
+- K. Park, S. Lee, and S. Choi, "X-circuit 등가회로를 이용한 호이겐스 메타표면 임피던스 공진 정합 조건에 따른 특성 분석," 2026 KIEES Summer Conf., Aug. 2026. [Best Paper Award]
+- S. Kwon, S. Lee, and S. Choi, "Accurate Diode Equivalent Circuit Extraction via TRL Calibration with DUT Pad De-embedding," 2026 KIEES Summer Conf., Aug. 2026.
+- C. Choi, S. Lee, B. Kim, J. Oh, and S. Choi, "250 GHz 대역 PCB 기반 투과형 배열 안테나의 최대 이득을 위한 최적화 설계," 2026 KIEES Summer Conf., Aug. 2026.
+- S. Lee and S. Choi, "Transmissive Reconfigurable Intelligent Surface Based on Huygens' Principle for 6G Upper-Mid Band Outdoor-to-Indoor Coverage Enhancement," 2026 KIEES Winter Conf., Feb. 2026.
+- H. Shin, S. Lee, and S. Choi, "홀로그래픽 안테나 개구 효율 개선을 위한 Tensor Unit Cell 설계," 2026 KIEES Winter Conf., Feb. 2026. [Best Paper Award]
+- S. Kwon, Subin Lee, S. Lee, and S. Choi, "Sub-6 GHz Band Diode's Equivalent Circuit Extraction using TRL Calibration," 2026 KIEES Winter Conf., Feb. 2026. [Best Paper Award]
+- K. Park, S. Lee, and S. Choi, "인터디지털 기생 스트립을 포함한 I-형 공진기 유닛셀의 표면 임피던스 변화 분석," 2026 KIEES Winter Conf., Feb. 2026.
+- C. Choi, S. Lee, and S. Choi, "250 GHz 대역 다채널 안테나 이득 향상을 위한 이중 편파 투과형 배열 안테나 설계," 2026 KIEES Winter Conf. (6th Student Project Exhibition), Feb. 2026. [Student Project Award]
+- S. Lee and S. Choi, "투과형 RIS 기반 실외-실내 5G NR 링크의 커버리지 개선 및 성능 검증," 2025 KICSF Summer Conf., Aug. 2025.
+- S. Lee and S. Choi, "실외-실내 통신 중계를 위한 투과형 RIS 기반 링크 성능 향상 검증," 2025 KIEES Summer Conf., Aug. 2025.
+- H. Shin, S. Lee, and S. Choi, "홀로그래픽 안테나의 Aperture Field 기반 모델링 및 중심 급전으로 인한 주빔 Null 현상 분석," 2025 KIEES Summer Conf., Aug. 2025.
+- S. Lee, C. Kim, and S. Choi, "Experimental Validation of Transmissive RIS as a Repeater for Wi-Fi 6 1024-QAM Signals," 2025 KIEES Winter Conf., Feb. 2025.
+- S. Lee and S. Choi, "Reconfigurable Intelligent Surface Using Huygens' Principle for Wide Beam Scanning," 2024 KIEES Summer Conf., Aug. 2024.
+- S. Lee and S. Choi, "Experimental Verification of Active Beam Steering Performance of Digitally-Controlled Huygens' Metasurface," 2023 KIEES Summer Conf., Aug. 2023.
+- S. Lee and S. Choi, "Investigation on Optimal Focal Distance between Feeding Antenna and Huygens' Metasurface," 2023 KIEES Winter Conf., Feb. 2023.
+- S. Lee and S. Choi, "Design and Implementation of Active Transmissive Double-Layer Huygens' Metasurface for Beamforming Application," 2022 KIEES Summer Conf., Aug. 2022. [IEEE AP-S Seoul Chapter Chair Award]
+- S. Lee and S. Choi, "Varactor-Tuned Beam-Forming Huygens' Metasurface," 2022 KIEES Winter Conf., Feb. 2022.
+- S. Lee and S. Choi, "Design of Traveling-Wave Microstrip Antenna Arrays with Low-Sidelobe Level and In-Phase Excitation," 2021 KIEES Summer Conf., Aug. 2021. [Best Paper Award (Undergraduate)]
+- K. M. R. Islam, S. Lee, T. Kim, and S. Choi, "Reconfigurable Transmission Huygens' Metasurface on Compact Double-Layered PCB for Beamforming Application," 2021 KIEES Summer Conf., Aug. 2021.
+- S. Lee and S. Choi, "Optimization Method for Low SLL Millimeter-Wave Microstrip Comb-Line Antenna Array," 2021 KIEES Winter Conf., Feb. 2021. [Best Paper Award (Undergraduate)]
+- S. Lee, S. Choi, and J. Choi, "Study on Electrode Fabrication to Enhance DBD Intensity and Uniformity," 2020 KIEES Autumn Conf., Nov. 2020.
+- S. Lee and S. Choi, "Millimeter-Wave Microstrip Comb-Line Antenna Array Using Stub-Integrated Rounded Radiating Element," 2020 KIEES Summer Conf., Aug. 2020.
+- S. Lee, J. Lee, S. Kim, and S. Choi, "Water Pump Monitoring System," 2020 KIEES Summer Conf., Aug. 2020.
+- S. Lee, J. Kim, J. Lee, S. Kim, J. Choi, and S. Choi, "Plasma Activated Water for Sterilization by Dielectric Barrier Discharge," 2020 KIEES Summer Conf., Aug. 2020.
+
+## Patents
+- Microstrip Traveling-Wave Series-Fed Array Antennas and Design Method Thereof (Korea Registered 10-2633315, 2024.02.05); inventors: S. Choi and S. Lee
+- Active Huygens' Metasurface Unit Cell and Huygens' Metasurface Array Including the Same (능동형 호이겐스 메타표면 유닛셀 및 이를 포함하는 호이겐스 메타표면 배열) (Korea Filed 10-2022-0135748, 2022.10.20); inventors: S. Choi and S. Lee
+
+## Awards & honors
+### Research Grants & Scholarships
+- NRF Ph.D. Student Research Grant (Principal Investigator · No. RS-2026-25552947), National Research Foundation of Korea, Sep. 2026 –
+- DB HiTek Scholarship, KNU-EE Research Congress 2025, Jul. 2025
+- Corporate Scholarship, Hanju Corporation, 2019
+- Academic Scholarship, University of Ulsan, 2018 – 2020
+### Conference Awards (Domestic)
+- Best Paper Award (Co-author (with K. Park)), 2026 KIEES Summer Conference, Aug. 2026
+- Best Paper Award (Co-author (with H. Shin)), 2026 KIEES Winter Conference, Feb. 2026
+- Best Paper Award (Co-author (with S. Kwon and S. Lee)), 2026 KIEES Winter Conference, Feb. 2026
+- 6th Student Project Exhibition & Competition Award (Co-author (with C. Choi)), 2026 KIEES Winter Conference, Feb. 2026
+- IEEE AP-S Seoul Chapter Chair Award, 2022 KIEES Summer Conference, Aug. 2022
+- Best Paper Award (Undergraduate Student Paper), 2021 KIEES Summer Conference, Aug. 2021
+- Best Paper Award (Undergraduate Student Paper), 2021 KIEES Winter Conference, Feb. 2021
+- Best Paper Award (Undergraduate Student Paper), 2020 KIEES Summer Conference, Aug. 2020
+- Best Paper Award (Creative Competition), 2020 KIEES Summer Conference, Aug. 2020
+### Institutional Research Awards
+- Best Paper Award, KNU-EE Research Congress 2024, Jul. 2024
+- Best Paper Award, KNU-EE Research Congress 2022, 2022
+### Undergraduate Competitions
+- Third Prize, 2020 University of Ulsan Research Intern, 2020
+- Second Prize, 2020-1 University of Ulsan Capstone Contest, 2020
+- First Prize, 2019-2 University of Ulsan Capstone Contest, 2019
+- First Prize, Smart Factory Convertible ICT Maker-Tone, 2019
+- Achievement Award, Building Smart Factory with Naval Logistics Command and University of Ulsan, 2019
+- Participation Award, 2019 Regional Strategy Industry Hackathon, 2019
+
+## Research projects
+- 2026.09 — 2028.08 (planned): Moiré-Based Transparent Transmissive Reconfigurable Intelligent Surface for 6G Outdoor-to-Indoor Links — National Research Foundation of Korea (NRF) · Ph.D. Student Research Grant, No. RS-2026-25552947 (Principal Investigator)
+- Since 2024: Development of RIS and NCR Component Technologies for Upper-mid Band Smart Repeater — Institute of Information & Communications Technology Planning & Evaluation (IITP), No. RS-2024-00395366 (Participating Researcher)
+- Since 2021: Innovative Fusion Technologies of Intelligent Antenna Material/Structure/Network for THz 6G — Institute of Information & Communications Technology Planning & Evaluation (IITP), No. 2021-0-00763 (Participating Researcher)
+
+## Coursework
+- Electromagnetic Wave Engineering
+- Antenna Theory I
+- Radiation and Diffraction Theory
+- Numerical Analysis of Electromagnetic Fields
+- Optimization Theory
+- Nanophotonics
+- Introduction to Optical Information Processing
+- Engineering Paper Writing
+
+Contact: sangmin2 [at] knu.ac.kr
+Last updated: Nov. 2026
