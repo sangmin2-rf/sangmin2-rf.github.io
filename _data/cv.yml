@@ -46,6 +46,11 @@ cv:
         end_date: 2020-05
 
     Projects:
+      - name: "Moiré-Based Transparent Transmissive Reconfigurable Intelligent Surface for 6G Outdoor-to-Indoor Links (NRF Ph.D. Student Research Grant, No. RS-2026-25552947)"
+        summary: Principal Investigator. Funded by the National Research Foundation of Korea (NRF).
+        start_date: 2026
+        end_date: Present
+
       - name: "Development of RIS and NCR Component Technologies for Upper-mid Band Smart Repeater (IITP, No. RS-2024-00395366)"
         summary: Participating researcher.
 
@@ -53,6 +58,9 @@ cv:
         summary: Participating researcher.
 
     Awards:
+      - title: "NRF Ph.D. Student Research Grant (박사과정생연구장려금), No. RS-2026-25552947"
+        date: 2026
+        awarder: National Research Foundation of Korea
       - title: Best Paper Award, 2026 KIEES Summer Conference (co-author, with K. Park)
         date: 2026
         awarder: KIEES
