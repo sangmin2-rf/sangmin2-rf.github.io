@@ -16,7 +16,7 @@ cv:
         start_date: 2024
         end_date: Present
         highlights:
-          - "Advisor: Prof. Sangjo Choi"
+          - "Advisor: Prof. Sangjo Choi, PLAYWAVE Lab"
 
       - institution: Kyungpook National University
         location: Daegu, Korea
@@ -53,6 +53,21 @@ cv:
         summary: Participating researcher.
 
     Awards:
+      - title: Best Paper Award, 2026 KIEES Summer Conference (co-author, with K. Park)
+        date: 2026
+        awarder: KIEES
+      - title: Best Paper Award, 2026 KIEES Winter Conference (co-author, with H. Shin)
+        date: 2026
+        awarder: KIEES
+      - title: Best Paper Award, 2026 KIEES Winter Conference (co-author, with S. Kwon and S. Lee)
+        date: 2026
+        awarder: KIEES
+      - title: Award, 6th Student Project Exhibition & Competition, 2026 KIEES Winter Conference (with C. Choi)
+        date: 2026
+        awarder: KIEES
+      - title: DB HiTek Scholarship, KNU-EE Research Congress 2025
+        date: 2025
+        awarder: Kyungpook National University
       - title: Best Paper Award, KNU-EE Research Congress
         date: 2024
         awarder: Kyungpook National University
