@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sangmin2-rf.github.io/sitemap.xml
